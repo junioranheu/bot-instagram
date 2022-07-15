@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "9LlEl+t3b/IeE7CfoUp/M2nyvG7dmJZ8lF4lyKxW3neeF3p2RJmCmUuH2zfQHUCBHJe5tDbtOD4JmuE81aNQNA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\junior.souza\\Downloads\\BotAnheuInsta\\BotAnheuInsta\\BotAnheuInsta.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\junior.souza\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\junior.souza\\.nuget\\packages\\selenium.support\\4.3.0\\selenium.support.4.3.0.nupkg.sha512",
+    "C:\\Users\\junior.souza\\.nuget\\packages\\selenium.webdriver\\4.3.0\\selenium.webdriver.4.3.0.nupkg.sha512",
+    "C:\\Users\\junior.souza\\.nuget\\packages\\selenium.webdriver.chromedriver\\103.0.5060.5300\\selenium.webdriver.chromedriver.103.0.5060.5300.nupkg.sha512"
+  ],
+  "logs": []
+}
